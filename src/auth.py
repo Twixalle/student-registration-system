@@ -1,1 +1,1 @@
-#Auth module
+#Auth module class AuthSystem: pass
